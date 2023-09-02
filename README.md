@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Nec0ti.
+- 👀 I’m interested in Making video games.
+- 🌱 I’m currently learning C# .
+- 💞️ I’m looking to collaborate on A video game company.
+- 📫 How to reach me? halilnecatig2@gmail.com
