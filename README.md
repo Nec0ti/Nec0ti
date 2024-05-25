@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Halil+Necati+Gulsen;I'm+Student+In+Turkiye)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;I'm+Necoti)](https://git.io/typing-svg)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&center=true&vCenter=true&width=420&lines=A+game+developer+with+true+passion)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&center=true&vCenter=true&width=420&lines=I+don't+know+what+to+write)
 -------
 
 <img alt="Necoti" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width=100% height="300px" align="center"/>
@@ -9,8 +9,8 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect me
 <p align="left">
- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Necoti/" height="30" width="40" />
- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Nec0ti" height="30" width="40" />
+ <img align="center" src="https://raw.githubusercontent.com/Nec0ti/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Necoti/" height="30" width="40" />
+ <img align="center" src="https://raw.githubusercontent.com/Nec0ti/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Nec0ti" height="30" width="40" />
  <img align="center" src="https://www.freepnglogos.com/uploads/email-png/email-western-libraries-12.png" alt="halilnecatig2@gmail.com" height="40" width="50" />
 </p>
 
