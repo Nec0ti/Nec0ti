@@ -9,8 +9,6 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect me
 <p align="left">
- <img align="center" src="https://raw.githubusercontent.com/Nec0ti/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Necoti/" height="30" width="40" />
- <img align="center" src="https://raw.githubusercontent.com/Nec0ti/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Nec0ti" height="30" width="40" />
  <img align="center" src="https://www.freepnglogos.com/uploads/email-png/email-western-libraries-12.png" alt="halilnecatig2@gmail.com" height="40" width="50" />
 </p>
 
