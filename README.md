@@ -21,3 +21,4 @@
 <p><img src="https://github-readme-stats.vercel.app/api?username=Nec0ti&show_icons=true&theme=dark&locale=en" alt="Nec0ti" align=center/></p>
 
 -------
+<a href="https://www.buymeacoffee.com/necotidev"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=necotidev&button_colour=383838&font_colour=ffffff&font_family=Bree&outline_colour=ffffff&coffee_colour=FFDD00" /></a>
