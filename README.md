@@ -3,7 +3,9 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect me
 <p align="left">
- <img align="center" alt="halilnecatig2@gmail.com" src="mail.png" height="40" width="50" />
+  <a href="mailto:halilnecatig2@gmail.com">
+     <img align="center" alt="E-Mail" src="mail.png" height="40" width="40" />
+  </a>
 </p>
 
 -------
