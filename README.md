@@ -3,7 +3,7 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect me
 <p align="left">
- <img align="center" src="https://www.freepnglogos.com/uploads/email-png/email-western-libraries-12.png" alt="mailto:halilnecatig2@gmail.com" height="40" width="50" />
+ <img align="center" <a href="https://www.flaticon.com/free-icons/email" title="halilnecatig2@gmail.com" alt="halilnecatig2@gmail.com" height="40" width="50" />
 </p>
 
 -------
