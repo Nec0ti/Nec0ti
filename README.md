@@ -1,15 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;I'm+Necoti)](https://git.io/typing-svg)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&center=true&vCenter=true&width=420&lines=I+don't+know+what+to+write)
--------
-
-<img alt="Necoti" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width=100% height="300px" align="center"/>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?nec0ti=h-fares&label=Profile%20views&color=0e75b6&style=flat" alt="h-fares" /> </p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F72323&background=FFFFFF00&center=true&vCenter=true&random=true&width=435&lines=Hello%2C+I'm+Necoti!)](https://git.io/typing-svg)
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect me
 <p align="left">
- <img align="center" src="https://www.freepnglogos.com/uploads/email-png/email-western-libraries-12.png" alt="halilnecatig2@gmail.com" height="40" width="50" />
+ <img align="center" src="https://www.freepnglogos.com/uploads/email-png/email-western-libraries-12.png" alt="mailto:halilnecatig2@gmail.com" height="40" width="50" />
 </p>
 
 -------
