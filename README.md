@@ -148,6 +148,3 @@ Tools & Platforms:
 </div>
 
 ---
-<div align="center">
-  <i>Happy coding! Let's create something amazing together. ✨</i>
-</div>
