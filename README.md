@@ -43,34 +43,8 @@
 </table>
 
 ### Development Workflow
-```yaml
-Languages:
-  Frontend:
-    - JavaScript (ES6+)
-    - HTML5/CSS3
-  Backend:
-    - Node.js
-    - Python
-    - C# (Unity)
+![Development Workflow](https://github.com/user-attachments/assets/212ccada-439a-4dc7-a26e-cd3412643ddc)
 
-Frameworks & Libraries:
-  Frontend:
-    - Next.js
-    - Tailwind CSS
-  Backend:
-    - Django
-    
-Tools & Platforms:
-  Cloud Services:
-    - AWS
-    - Firebase
-  Version Control:
-    - Git
-  Development:
-    - VS Code
-    - Unity Editor
-    - Docker
-```
 
 ## 📊 GitHub Analytics
 
