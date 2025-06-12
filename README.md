@@ -86,10 +86,7 @@ Note: "Split bills. Not friendships."
 
 <details>
   <summary>📁 [LOG ENTRY 404 – Dev Joke Database]</summary>
-  <br>
-  <i>"I told my computer I needed a break, and it said: 'No problem. I’ll crash!'" 😵‍💫</i>
-  <br><br>
-  <i>Bonus: Why do Java developers wear glasses? Because they can’t C#.</i>
+  <i>Why do Java developers wear glasses? Because they can’t C#.</i>
 </details>
 
 ---
