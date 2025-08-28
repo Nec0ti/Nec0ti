@@ -1,25 +1,38 @@
-# Hi, I'm Nec0ti 👋
+<h1 align="center">Nec0ti</h1>
 
-## 🚀 About Me
-- 🌍 Based in Türkiye
-- 🎓 High School Student
-- 💻 Currently working on game development and web projects
+<p align="center">
+  Hi, I'm Necati. People online usually know me as <b>Necoti</b> or <b>Neco</b> for short.<br>
+  I'm currently learning <b>C</b>, while also working with <b>JavaScript, Python and C#</b>.<br>
+  (Yes, I know HTML and CSS, but I don't count them as programming languages.)
+</p>
 
-## 🛠️ Tech Stack
-- JavaScript
-- Unity (C#)
-- Python
-- Git
+---
 
-## 🔭 Featured Project
-[Fatrocu](https://github.com/Nec0ti/Fatrocu) - An AI powered a-invoice analysis app.
+## About me
+- I'm a student on my way to becoming an **Electrical-Electronics Engineer**.  
+- My long-term goal is to work as an **Embedded Engineer**.  
+- I like being close to the metal, understanding how things really work under the surface.  
+- I don’t just want to write code — I want to build systems that live in both hardware and software.  
 
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nec0ti&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nec0ti&theme=tokyonight&hide_border=true&layout=compact" width="45%" />
-</div>
+---
 
-## 📫 Connect With Me
-- Website: [necoti.dev](https://necoti.dev)
-- Email: [halilnecatig2@gmail.com](mailto:halilnecatig2@gmail.com)
+## Current focus
+- Learning C and low-level programming.  
+- Getting comfortable with problem solving instead of just syntax.  
+- Building small but real projects to sharpen my skills.  
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nec0ti&show_icons=true&theme=gruvbox" alt="stats"/>
+</p>
+
+---
+
+<pre align="center">
+This is just the beginning.
+The rest of the story
+will be written to my registers.
+</pre>
