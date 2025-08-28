@@ -9,7 +9,7 @@
 ---
 
 ## About me
-- I'm a student on my way to becoming an **Electrical-Electronics Engineer**.  
+- I'm a highschool student on my way to becoming an **Electrical-Electronics Engineer**.  
 - My long-term goal is to work as an **Embedded Engineer**.  
 - I like being close to the metal, understanding how things really work under the surface.  
 - I don’t just want to write code — I want to build systems that live in both hardware and software.  
