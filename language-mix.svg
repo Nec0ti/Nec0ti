@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="158" viewBox="0 0 440 158" role="img" aria-labelledby="title desc">
+  <title id="title">Programming-language mix</title>
+  <desc id="desc">F sharp 57.9 percent, Makefile 13.9 percent, HTML 9.8 percent, C plus plus 5.4 percent, CMake 4.5 percent, other languages 8.5 percent, measured by code size across 19 public repositories on November 8, 2026.</desc>
+  <rect width="440" height="158" rx="14" fill="#241a16" />
+
+  <text x="22" y="25" fill="#e3c5a5" font-family="Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1.5">LANGUAGE MIX</text>
+  <text x="418" y="25" fill="#9e8e80" font-family="Arial, sans-serif" font-size="9" text-anchor="end">PUBLIC REPOS · BYTES</text>
+
+  <rect x="22" y="39" width="396" height="10" rx="5" fill="#40352e" />
+  <path d="M27 39h224.3v10H27a5 5 0 0 1-5-5 5 5 0 0 1 5-5Z" fill="#e7a06f" />
+  <rect x="251.3" y="39" width="55" height="10" fill="#c9a783" />
+  <rect x="306.3" y="39" width="38.8" height="10" fill="#df7f6a" />
+  <rect x="345.1" y="39" width="21.4" height="10" fill="#79a4d2" />
+  <rect x="366.5" y="39" width="17.8" height="10" fill="#82aa9c" />
+  <path d="M384.3 39H413a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-28.7Z" fill="#817487" />
+
+  <circle cx="26" cy="72" r="4" fill="#e7a06f" />
+  <text x="38" y="76" fill="#e8dfd7" font-family="Arial, sans-serif" font-size="11">F#</text>
+  <text x="198" y="76" fill="#b8a99d" font-family="Arial, sans-serif" font-size="11" text-anchor="end">57.9%</text>
+
+  <circle cx="226" cy="72" r="4" fill="#c9a783" />
+  <text x="238" y="76" fill="#e8dfd7" font-family="Arial, sans-serif" font-size="11">Makefile</text>
+  <text x="414" y="76" fill="#b8a99d" font-family="Arial, sans-serif" font-size="11" text-anchor="end">13.9%</text>
+
+  <circle cx="26" cy="98" r="4" fill="#df7f6a" />
+  <text x="38" y="102" fill="#e8dfd7" font-family="Arial, sans-serif" font-size="11">HTML</text>
+  <text x="198" y="102" fill="#b8a99d" font-family="Arial, sans-serif" font-size="11" text-anchor="end">9.8%</text>
+
+  <circle cx="226" cy="98" r="4" fill="#79a4d2" />
+  <text x="238" y="102" fill="#e8dfd7" font-family="Arial, sans-serif" font-size="11">C++</text>
+  <text x="414" y="102" fill="#b8a99d" font-family="Arial, sans-serif" font-size="11" text-anchor="end">5.4%</text>
+
+  <circle cx="26" cy="124" r="4" fill="#82aa9c" />
+  <text x="38" y="128" fill="#e8dfd7" font-family="Arial, sans-serif" font-size="11">CMake</text>
+  <text x="198" y="128" fill="#b8a99d" font-family="Arial, sans-serif" font-size="11" text-anchor="end">4.5%</text>
+
+  <circle cx="226" cy="124" r="4" fill="#817487" />
+  <text x="238" y="128" fill="#e8dfd7" font-family="Arial, sans-serif" font-size="11">Other</text>
+  <text x="414" y="128" fill="#b8a99d" font-family="Arial, sans-serif" font-size="11" text-anchor="end">8.5%</text>
+
+  <text x="22" y="148" fill="#82756c" font-family="Arial, sans-serif" font-size="8">19 public repositories · 08 Nov 2026</text>
+</svg>
